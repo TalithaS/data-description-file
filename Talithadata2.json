@@ -1,8 +1,8 @@
-{
+	{
 	"file": "//soliscom.uu.nl/uu/Users/5520290/My Documents/webserver UpsetR/lcpmsmall.csv",
 	"name": "Talitha data",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
