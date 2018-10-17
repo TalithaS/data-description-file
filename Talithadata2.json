@@ -1,5 +1,5 @@
 {
-	"file": "//soliscom.uu.nl/uu/Users/5520290/My Documents/webserver UpsetR/lcpm.csv",
+	"file": "//soliscom.uu.nl/uu/Users/5520290/My Documents/webserver UpsetR/lcpmsmall.csv",
 	"name": "Talitha data",
 	"header": 0,
 	"separator": ";",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 61}
+		{ "format": "integer", "start": 1, "end": 61}
 	]
 }
