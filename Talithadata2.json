@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "integer", "start": 1, "end": 61}
+		{ "format": "decimal", "start": 1, "end": 61}
 	]
 }
